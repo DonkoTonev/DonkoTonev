@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on a several full-stack projects.
 - 🌱 I’m currently learning Solidity and JavaScript.
-- 👯 I’m looking to collaborate on as much projects as I can.
 - 💬 Ask me about Python, Solidity and JavaScript.
 
 
