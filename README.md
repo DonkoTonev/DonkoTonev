@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a several full-stack projects.
-- 🌱 I’m currently learning Solidity, Java and JavaScript.
-- 💬 Ask me about Python, Solidity and JavaScript.
+- 🌱 I’m currently learning Solidity.
+- 💬 Ask me about Python and Solidity.
 
 
 ## 🌐 Socials:
