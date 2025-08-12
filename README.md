@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a several full-stack projects.
-- 🌱 I’m currently learning Solidity.
 - 💬 Ask me about Python and Solidity.
 
 
