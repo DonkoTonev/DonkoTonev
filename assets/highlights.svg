@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111a2e"/><stop offset="1" stop-color="#0b1020"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .big   { font: 800 40px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: url(#g); }
+    .lbl   { font: 600 15px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #e2e8f0; }
+    .sub   { font: 400 13px 'Segoe UI', Inter, Helvetica, Arial, sans-serif; fill: #94a3b8; }
+    .c { opacity: 0; animation: in .7s ease-out forwards; }
+    .c1 { animation-delay: .1s } .c2 { animation-delay: .3s } .c3 { animation-delay: .5s } .c4 { animation-delay: .7s }
+    @keyframes in { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+
+  <g class="c c1">
+    <rect x="4" y="8" width="282" height="154" rx="16" fill="url(#card)" stroke="#1e293b"/>
+    <rect x="28" y="8" width="60" height="3" rx="1.5" fill="url(#g)"/>
+    <text x="28" y="72" class="big">2+ yrs</text>
+    <text x="28" y="106" class="lbl">Production web scraping</text>
+    <text x="28" y="130" class="sub">Scrapy · proxies · anti-bot at EDITED</text>
+  </g>
+  <g class="c c2">
+    <rect x="306" y="8" width="282" height="154" rx="16" fill="url(#card)" stroke="#1e293b"/>
+    <rect x="330" y="8" width="60" height="3" rx="1.5" fill="url(#g)"/>
+    <text x="330" y="72" class="big">1,300+</text>
+    <text x="330" y="106" class="lbl">Contributions last year</text>
+    <text x="330" y="130" class="sub">Mostly in private repositories</text>
+  </g>
+  <g class="c c3">
+    <rect x="608" y="8" width="282" height="154" rx="16" fill="url(#card)" stroke="#1e293b"/>
+    <rect x="632" y="8" width="60" height="3" rx="1.5" fill="url(#g)"/>
+    <text x="632" y="72" class="big">1 app</text>
+    <text x="632" y="106" class="lbl">Shipped solo to Google Play</text>
+    <text x="632" y="130" class="sub">Pulsify · AI fitness &amp; nutrition</text>
+  </g>
+  <g class="c c4">
+    <rect x="910" y="8" width="282" height="154" rx="16" fill="url(#card)" stroke="#1e293b"/>
+    <rect x="934" y="8" width="60" height="3" rx="1.5" fill="url(#g)"/>
+    <text x="934" y="72" class="big">AI agents</text>
+    <text x="934" y="106" class="lbl">Agentic systems at work</text>
+    <text x="934" y="130" class="sub">Automating engineering workflows</text>
+  </g>
+</svg>
