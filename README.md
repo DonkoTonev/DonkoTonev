@@ -118,4 +118,10 @@ I build systems that collect messy data from the web at scale — and the AI age
 </tr>
 </table>
 
+## 📈 Activity
+
+<p align="center">
+  <img src="./assets/activity.svg" alt="Activity: 1,361 contributions in the last 12 months" width="100%"/>
+</p>
+
 <p align="center"><i>Most of my work lives in private repositories — happy to walk you through it on <a href="https://www.linkedin.com/in/donko-tonev/">LinkedIn</a>.</i></p>
