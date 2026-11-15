@@ -5,6 +5,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/donko-tonev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.apex.fitness"><img src="https://img.shields.io/badge/Pulsify_on_Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Pulsify on Google Play"/></a>
+  <a href="mailto:donkotonew@gmail.com"><img src="https://img.shields.io/badge/Email-donkotonew%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open_to_work-Python_%C2%B7_Data_%C2%B7_AI-2dd4bf?style=for-the-badge" alt="Open to work"/>
   <img src="https://komarev.com/ghpvc/?username=DonkoTonev&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
