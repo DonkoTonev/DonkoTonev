@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/donko-tonev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://play.google.com/store/apps/details?id=com.apex.fitness"><img src="https://img.shields.io/badge/Pulsify_on_Google_Play-01875F?style=for-the-badge&logo=googleplay&logoColor=white" alt="Pulsify on Google Play"/></a>
-  <a href="https://github.com/DonkoTonev/DonkoTonev/blob/main/Donko_Tonev_Resume.pdf"><img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
 ---
@@ -18,7 +17,6 @@
 - 🕷️ **Software Engineer at [EDITED](https://edited.com)** (since 2024) — extraction, parsing, cleaning and deduplication of retail data at scale with **Scrapy**, proxy management and anti-bot handling
 - 🤖 Contributed to an **AI multi-agent system** that automatically maintains and repairs crawlers
 - 📱 Built and shipped **[Pulsify](https://play.google.com/store/apps/details?id=com.apex.fitness)** solo — an AI fitness & nutrition app, live on Google Play
-- 🔐 Former **smart contract security researcher** on Code4rena, Sherlock and CodeHawks (2024–2025)
 - 🎓 Computer Systems and Technologies @ Technical University of Varna
 - 📍 Bulgaria
 
