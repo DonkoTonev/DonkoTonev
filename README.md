@@ -15,7 +15,7 @@
 ### 🧑‍💻 About me
 
 - 🕷️ **Software Engineer at [EDITED](https://edited.com)** (since 2024) — extraction, parsing, cleaning and deduplication of retail data at scale with **Scrapy**, proxy management and anti-bot handling
-- 🤖 Contributed to an **AI multi-agent system** that automatically maintains and repairs crawlers
+- 🤖 Building **agentic AI systems** that automate engineering workflows
 - 📱 Built and shipped **[Pulsify](https://play.google.com/store/apps/details?id=com.apex.fitness)** solo — an AI fitness & nutrition app, live on Google Play
 - 🎓 Computer Systems and Technologies @ Technical University of Varna
 - 📍 Bulgaria
@@ -71,7 +71,6 @@ Snap a photo of your meal and get calories and macros instantly, track workouts,
 
 ### 🌱 Currently exploring
 
-- AI agents for automating engineering work
 - AI red-teaming and prompt-injection security
 - Distributed systems and data-intensive applications
 
