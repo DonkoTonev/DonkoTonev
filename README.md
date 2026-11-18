@@ -18,7 +18,7 @@
 
 I build systems that collect messy data from the web at scale — and the AI agents that keep them running.
 
-- 🕷️ **Software Engineer at [EDITED](https://edited.com)** — extraction, parsing, cleaning and deduplication of retail data at scale with **Scrapy**, proxy management and anti-bot handling
+- 🕷️ **Software Engineer at [EDITED](https://edited.com)** — extraction, parsing, cleaning and deduplication of retail data at scale, proxy management and anti-bot handling
 - 🤖 Building **agentic AI systems** that automate engineering workflows
 - 📱 Built and shipped **[Pulsify](https://play.google.com/store/apps/details?id=com.apex.fitness)** solo — an AI fitness & nutrition app, live on Google Play
 - 🎓 Computer Systems and Technologies @ Technical University of Varna
